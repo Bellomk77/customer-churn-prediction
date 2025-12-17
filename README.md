@@ -1,4 +1,3 @@
-# customer-churn-prediction
 # 📊 Customer Churn Prediction Project
 
 This project analyzes customer churn behavior using the Telco Customer Churn dataset.
